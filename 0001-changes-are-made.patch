@@ -31,10 +31,7 @@ index 0000000..4144e0d
 +@@ -1 +1,2 @@
 +  this is a random text file for testing in the github
 ++ adding another line.
-+-- 
 +2.42.0.windows.2
-+
-diff --git a/newfile.txt b/newfile.txt
 index aeb342d..f0c707f 100644
 --- a/newfile.txt
 +++ b/newfile.txt
