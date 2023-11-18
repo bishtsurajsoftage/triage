@@ -1,5 +1,3 @@
  this is a random text file for testing in the github
  adding another line.
- this is reversible
- this is again a new line in file
- 
+
