@@ -1,0 +1,10 @@
+ # compiled class file
+ *.class
+
+ # Log file
+ *.log
+
+ # Bluej files
+ *.ctxt
+
+ # Mobile Tools for JAVa (J2me)
