@@ -3,6 +3,4 @@
 <<<<<<< HEAD
  hello_world
 
-=======
- this is just for testing
->>>>>>> 75cfa83 (Update newfile.txt)
+
