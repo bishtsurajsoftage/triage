@@ -14,3 +14,5 @@
 - I'm currently looking to collaborate with Fullstack and mobile development projects.
 - contributing to open source projects is always been a goal to me.
 - Fun fact: I like watching movies.
+
+<h3> adding a new line</h3>

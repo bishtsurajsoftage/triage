@@ -1,0 +1,6 @@
+ this is a random text file for testing in the github
+ adding another line.
+<<<<<<< HEAD
+ hello_world
+
+
